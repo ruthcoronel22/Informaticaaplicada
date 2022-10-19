@@ -1,0 +1,77 @@
+
+
+		h1{font-size: 60px; 
+			text-align: center;
+			background-color:rgb(43, 212, 136); display: block;
+			color: white;
+			height: 120px;
+			width: 100%;
+			line-height: 120px;}
+		
+		line1{background-color:rgb(67, 20, 220); 
+			height: 7px;
+			width: 100%;
+		}
+		
+		body{background-color: white;
+	      	font-family: Sans Serif; font-size: 15px;
+			color:black;
+		    margin:5%;
+		    text-align: center}
+		nombre{
+			  font-size: 15px;
+			  color: white;
+			  background-color: rgb(12, 136, 35);
+			  height: 30px;
+		      line-height:30px;
+			  width: 20%;
+				  margin:25px auto 0 auto;	}
+		
+		
+		gol {text-align: center}
+		
+		p{font-size: 15px;
+			justify-content: left;
+			align-items: left;
+            margin:25px auto 0 auto;
+			text-align: center;
+		 text-align: justify;}
+		
+		h3{
+			
+			color: rgb(7, 7, 7);
+		height: 30px;
+		      line-height:30px;
+			  width: 20%;
+		margin-left:100px }	
+
+		.lista1{
+		    display:flex;
+			justify-content: center;
+			align-items: center;
+            margin:25px auto 0 auto;
+			text-align: left}
+		
+		.lista2{
+		    display:flex;
+			justify-content: center;
+			align-items: center;
+            margin:25px auto 0 auto;
+			text-align: left}
+		
+		.lista3{ display:flex;
+			justify-content: center;
+			align-items: center;
+            margin:auto 0 auto;  }
+       
+       
+		
+		#tigre {background-color: crimson; color:white; text-align: center;}
+		#arg{background-color: crimson; color:white; text-align: center;}
+		
+		
+		.img2{float: right;
+		      margin-right:100px;
+		position: relative; top:50px; right:-70px}
+
+		

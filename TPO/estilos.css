@@ -1,0 +1,31 @@
+.img1{
+	float: inline-start;
+	width:50%;
+	margin-bottom: 0px;
+}
+
+.imagen{
+	margin: 0;
+	border: 0; 
+	padding: 0;
+}
+.contbutton{
+	display: inherit;
+	background-color: #FFCC99
+
+}
+
+.contmast{
+	display:flex;
+}
+
+ul.destacados li, ul.social li{
+	display: inline;
+	padding: 10px;
+	margin: 20px;
+}
+
+ul.destacados li a, ul.social li a{/*Agregar aca para tipografia header*/
+	text-decoration: none;
+	color:black;
+}
